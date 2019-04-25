@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+*{font-family: 'Muli', sans-serif;}
+form .btn-primary a{ color:#fff}
+.loginForm{margin-top:30px; border:1px solid #ccc; padding:0 30px 30px 30px}
+.regForm{ border:1px solid #ccc; padding:0 30px 30px 30px;margin-top:30px;}
